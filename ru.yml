@@ -1,0 +1,95 @@
+---
+# Personal details
+name: Ахтаров Данил
+address:
+  - Грузия
+  - Тбилиси
+email: daxartio@gmail.com
+# Insert URLs without http://
+urls:
+  - daxartio.github.io
+  - github.com/daxartio
+  - twitter.com/daxartio
+  - t.me/daxtar
+
+sections:
+  skills: Навыки
+  experience: Опыт работы
+  education: Образование
+  languages: Языки
+  projects: Проекты
+  conferences: Спикер
+
+# Sections:
+
+intro: |
+  Разработчик с опытом в WEB backend части.
+  Изучал несколько языков программирования, такие как: Python, Rust, Go, C#, Kotlin, Java, Typescript, JS, Lua, Dart.
+  Большую часть времени уделял языку Python. Разрабатываю stateless сервисы, используя фреймворк FastAPI.
+  Есть большой опыт работы с kafka и также разработки gRPC API.
+
+  В последнее время занимал должность архитектора/тех лида.
+
+  Работаю над opensource проектами.
+
+skills_columns: 3
+skills:
+  - - Python
+    - FastAPI
+    - Sqlalchemy
+    - Rust
+  - - Typescript
+    - Kafka
+    - Postgresql
+    - Clickhouse
+  - - Redis
+    - Docker
+    - CI/CD
+    - Software Architecture
+
+experience:
+  - years: 2019--2022
+    employer: Software Architect
+    job: Tinkoff
+    city: Санкт-Петербург
+  - years: 2017–-2019
+    employer: Python developer
+    job: Уральский Центр Систем Безопасности
+    city: Екатеринбург
+  - years: 2016--2017
+    employer: PHP Developer
+    job: Bodysite
+    city: Екатеринбург
+
+projects:
+  - name: tinkoff-investments
+    repo: github.com/tinkoff/invest-python
+  - name: tinvest
+    repo: github.com/daxartio/tinvest
+  - name: sportorg
+    repo: github.com/sportorg/pysport
+
+conferences:
+  - year: 2022
+    subject: PyCon Weekend Russia
+  - year: 2021
+    subject: PyCon Russia
+
+education:
+  - year: 2013--2017
+    subject: Инфокоммуникационные технологии и системы связи
+    institute: Уральский Федеральный Университет
+    city: Екатеринбург
+
+languages:
+  - language: Russian
+    proficiency: native
+  - language: English
+    proficiency: fluent
+
+# Settings
+mainfont: Times New Roman
+fontsize: 10pt
+lang: ru-RU
+geometry: a4paper, left=35mm, right=35mm, top=51mm, bottom=17mm
+---
