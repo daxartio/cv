@@ -24,7 +24,7 @@ sections:
 
 intro: |
   Разработчик с опытом в WEB backend части.
-  Изучал несколько языков программирования, такие как: Python, Rust, Go, C#, Kotlin, Java, Typescript, JS, Lua, Dart.
+  Изучал языки программирования, такие как: Python, Rust, Go, C#, Kotlin, Java, Typescript, JS, Lua, Dart.
   Большую часть времени уделял языку Python. Разрабатываю stateless сервисы, используя фреймворк FastAPI.
   Есть большой опыт работы с kafka и также разработки gRPC API.
 
@@ -52,14 +52,28 @@ experience:
     employer: Software Architect
     job: Tinkoff
     city: Санкт-Петербург
+    summary: |
+      Языки: Python
+
+      Протоколы: REST, gRPC, Kafka (avro)
+
+      Библиотеки: FastAPI, Flask, Sqlalchemy, Huey, ...
   - years: 2017–-2019
     employer: Python developer
     job: Уральский Центр Систем Безопасности
     city: Екатеринбург
+    summary: |
+      Языки: Python
+
+      Протоколы: REST, RabbitMQ (json)
+
+      Библиотеки: aiohttp, sqlalchemy, ...
   - years: 2016--2017
     employer: PHP Developer
     job: Bodysite
     city: Екатеринбург
+    summary: |
+      Разработка и поддержка плагинов для e-commerce
 
 projects:
   - name: tinkoff-investments
@@ -77,7 +91,7 @@ conferences:
 
 education:
   - year: 2013--2017
-    subject: Инфокоммуникационные технологии и системы связи
+    subject: Инфокоммуникационные технологии и системы связи (бакалавр)
     institute: Уральский Федеральный Университет
     city: Екатеринбург
 

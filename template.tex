@@ -129,17 +129,11 @@ $endif$
 $for(experience)$
 \note{$experience.years$}\textsc{$experience.employer$}\\
 \emph{$experience.job$}\\
-$experience.city$\\[.2cm]
-$endfor$
-
-$if(projects)$
-\section*{$sections.projects$}
-\noindent
-$for(projects)$
-\emph{$projects.name$}\\
-\href{https://$projects.repo$}{$projects.repo$}\\[.2cm]
-$endfor$
+$experience.city$\\
+$if(experience.summary)$
+$experience.summary$\\[.2cm]
 $endif$
+$endfor$
 
 $if(education)$
 \section*{$sections.education$}
@@ -147,6 +141,15 @@ $if(education)$
 $for(education)$
 \note{$education.year$}\textbf{$education.subject$}$if(education.degree)$, $education.degree$$endif$\\
 \emph{$education.institute$}$if(education.city)$, $education.city$$endif$\\[.2cm]
+$endfor$
+$endif$
+
+$if(projects)$
+\section*{$sections.projects$}
+\noindent
+$for(projects)$
+\emph{$projects.name$}\\
+\href{https://$projects.repo$}{$projects.repo$}\\[.2cm]
 $endfor$
 $endif$
 
