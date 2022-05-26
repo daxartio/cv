@@ -1,11 +1,8 @@
 ---
-# Personal details
 name: Danil Akhtarov
 address:
-  - Georgia
-  - Tbilisi
+  - Remote
 email: daxartio@gmail.com
-# Insert URLs without http://
 urls:
   - daxartio.github.io
   - github.com/daxartio
@@ -14,21 +11,17 @@ urls:
 
 sections:
   skills: Skills
-  experience: Experience
+  experience: Work Experience
   education: Education
   languages: Languages
   projects: Projects
   conferences: Conferences (speaker)
 
-# Sections:
-
 intro: |
-  I am Software engineer and Software Architect.
-  I used several programming languages: Python, Rust, Go, C#, Kotlin, Java, Typescript, JS, Lua, Dart.
-  Primary language is Python. I make stateless services via FastAPI framework.
-  Also i use kafka and gRPC.
+  Software engineer focused on performant web systems.
+  Skilled Python programmer.
 
-  I make opensource projects.
+  More than 8 years of professional web development.
 
 skills_columns: 3
 skills:
@@ -51,7 +44,7 @@ experience:
     job: Tinkoff.ru
     city: Saint Petersburg
     summary: |
-      PL: Python
+      Languages: Python
 
       Protocols: REST, gRPC, Kafka (avro)
 
@@ -61,7 +54,7 @@ experience:
     job: USSC.ru
     city: Yekaterinburg
     summary: |
-      PL: Python
+      Languages: Python, Go, Typescript
 
       Protocols: REST, RabbitMQ (json)
 
