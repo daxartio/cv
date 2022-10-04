@@ -44,7 +44,7 @@ skills:
 
 experience:
   - years: 2019--2022
-    employer: Software Architect
+    position: Software Architect
     job: Tinkoff
     city: Санкт-Петербург
     summary: |
@@ -54,7 +54,7 @@ experience:
 
       Библиотеки: FastAPI, Flask, Sqlalchemy, Huey, ...
   - years: 2017–-2019
-    employer: Python developer
+    position: Python developer
     job: Уральский Центр Систем Безопасности
     city: Екатеринбург
     summary: |
@@ -64,7 +64,7 @@ experience:
 
       Библиотеки: aiohttp, sqlalchemy, ...
   - years: 2016--2017
-    employer: PHP Developer
+    position: PHP Developer
     job: Bodysite
     city: Екатеринбург
     summary: |
