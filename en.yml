@@ -4,9 +4,7 @@ address:
   - Remote
 email: daxartio@gmail.com
 urls:
-  - daxartio.github.io
   - github.com/daxartio
-  - twitter.com/daxartio
   - t.me/daxtar
 
 sections:
@@ -75,6 +73,8 @@ projects:
     repo: github.com/sportorg/pysport
 
 conferences:
+  - year: 2022
+    subject: PiterPy
   - year: 2022
     subject: PyCon Weekend Russia
   - year: 2021

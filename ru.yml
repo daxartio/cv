@@ -4,9 +4,7 @@ address:
   - Удаленная работа
 email: daxartio@gmail.com
 urls:
-  - daxartio.github.io
   - github.com/daxartio
-  - twitter.com/daxartio
   - t.me/daxtar
 
 sections:
@@ -15,7 +13,7 @@ sections:
   education: Образование
   languages: Языки
   projects: Проекты
-  conferences: Спикер
+  conferences: Спикер на конференции
 
 intro: |
   Разработчик с опытом в WEB backend части.
@@ -79,6 +77,8 @@ projects:
     repo: github.com/sportorg/pysport
 
 conferences:
+  - year: 2022
+    subject: PiterPy
   - year: 2022
     subject: PyCon Weekend Russia
   - year: 2021
