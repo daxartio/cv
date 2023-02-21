@@ -1,6 +1,6 @@
 # CV/Resume
 
-Python resume generator. From YAML to PDF.
+Programmatic generation of high-quality CVs. From YAML to PDF.
 
 ## Usage
 
