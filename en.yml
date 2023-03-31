@@ -46,7 +46,7 @@ experience:
 
       Protocols: REST, gRPC, Kafka (avro)
 
-      Packages: FastAPI, Flask, Sqlalchemy, Huey, ...
+      Packages: FastAPI, Sqlalchemy, Confluent Kafka, ...
   - years: 2017–-2019
     position: Python developer
     job: USSC.ru

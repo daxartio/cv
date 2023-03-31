@@ -50,7 +50,7 @@ experience:
 
       Протоколы: REST, gRPC, Kafka (avro)
 
-      Библиотеки: FastAPI, Flask, Sqlalchemy, Huey, ...
+      Библиотеки: FastAPI, Sqlalchemy, Confluent Kafka, ...
   - years: 2017–-2019
     position: Python developer
     job: Уральский Центр Систем Безопасности
