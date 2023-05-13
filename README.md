@@ -1,9 +1,16 @@
 # CV/Resume
 
-Programmatic generation of high-quality CVs. From YAML to PDF.
+Programmatic generation of high-quality CVs. From YAML to PDF
 
 ## Usage
 
+```shell
+cp en.yml cv.yml
+typst c template.typ ru.pdf
 ```
-docker-compose run --rm pandoc make
-```
+
+Built by [Typst](https://typst.app/)
+
+## Example
+
+![cv](en.png)

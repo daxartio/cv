@@ -1,4 +1,3 @@
----
 name: Ахтаров Данил
 address:
   - Удаленная работа
@@ -16,52 +15,42 @@ sections:
   conferences: Спикер на конференции
 
 intro: |
-  Разработчик с опытом в WEB backend части.
-  Изучал языки программирования, такие как: Python, Rust, Go, C#, Kotlin, Java, Typescript, JS, Lua, Dart.
-  Большую часть времени уделял языку Python. Разрабатываю stateless сервисы, используя фреймворк FastAPI.
-  Есть большой опыт работы с kafka и также разработки gRPC API.
-
+  Разработчик с опытом в WEB backend части. Изучал языки программирования, такие как: Python, Rust, Go, C#, Kotlin, Java, Typescript, JS, Lua, Dart. Большую часть времени уделял языку Python. Разрабатываю stateless сервисы, используя фреймворк FastAPI. Есть большой опыт работы с kafka и также разработки gRPC API.
   В последнее время занимал должность архитектора/тех лида.
-
   Работаю над opensource проектами.
 
-skills_columns: 3
 skills:
-  - - Python
-    - FastAPI
-    - Sqlalchemy
-    - Rust
-  - - Typescript
-    - Kafka
-    - Postgresql
-    - Clickhouse
-  - - Redis
-    - Docker
-    - CI/CD
-    - Software Architecture
+  - Python
+  - FastAPI
+  - Sqlalchemy
+  - Rust
+  - Typescript
+  - Kafka
+  - Postgresql
+  - Clickhouse
+  - Redis
+  - Docker
+  - CI/CD
+  - Software Architecture
 
 experience:
-  - years: 2019--2022
+  - years: 2019—2022
     position: Software Architect
     job: Tinkoff
     city: Санкт-Петербург
     summary: |
       Языки: Python
-
       Протоколы: REST, gRPC, Kafka (avro)
-
       Библиотеки: FastAPI, Sqlalchemy, Confluent Kafka, ...
-  - years: 2017–-2019
+  - years: 2017—2019
     position: Python developer
     job: Уральский Центр Систем Безопасности
     city: Екатеринбург
     summary: |
       Языки: Python, Go, Typescript
-
       Протоколы: REST, RabbitMQ (json)
-
       Библиотеки: aiohttp, sqlalchemy, ...
-  - years: 2016--2017
+  - years: 2016—2017
     position: PHP Developer
     job: Bodysite
     city: Екатеринбург
@@ -85,7 +74,7 @@ conferences:
     subject: PyCon Russia
 
 education:
-  - year: 2013--2017
+  - years: 2013—2017
     subject: Инфокоммуникационные технологии и системы связи (бакалавр)
     institute: Уральский Федеральный Университет
     city: Екатеринбург
@@ -94,11 +83,4 @@ languages:
   - language: Russian
     proficiency: native
   - language: English
-    proficiency: fluent
-
-# Settings
-mainfont: Times New Roman
-fontsize: 10pt
-lang: ru-RU
-geometry: a4paper, left=35mm, right=35mm, top=51mm, bottom=17mm
----
+    proficiency: intermediate

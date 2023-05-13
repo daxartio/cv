@@ -1,4 +1,3 @@
----
 name: Danil Akhtarov
 address:
   - Remote
@@ -16,48 +15,41 @@ sections:
   conferences: Conferences (speaker)
 
 intro: |
-  Software engineer focused on performant web systems.
-  Skilled Python programmer.
-
+  Software engineer focused on performant web systems. Skilled Python programmer.
   More than 8 years of professional web development.
 
-skills_columns: 3
 skills:
-  - - Python
-    - FastAPI
-    - Sqlalchemy
-    - Rust
-  - - Typescript
-    - Kafka
-    - Postgresql
-    - Clickhouse
-  - - Redis
-    - Docker
-    - CI/CD
-    - Software Architecture
+  - Python
+  - FastAPI
+  - Sqlalchemy
+  - Rust
+  - Typescript
+  - Kafka
+  - Postgresql
+  - Clickhouse
+  - Redis
+  - Docker
+  - CI/CD
+  - Software Architecture
 
 experience:
-  - years: 2019--2022
+  - years: 2019—2022
     position: Software Architect
     job: Tinkoff.ru
     city: Saint Petersburg
     summary: |
       Languages: Python
-
       Protocols: REST, gRPC, Kafka (avro)
-
       Packages: FastAPI, Sqlalchemy, Confluent Kafka, ...
-  - years: 2017–-2019
+  - years: 2017—2019
     position: Python developer
     job: USSC.ru
     city: Yekaterinburg
     summary: |
       Languages: Python, Go, Typescript
-
       Protocols: REST, RabbitMQ (json)
-
       Packages: aiohttp, sqlalchemy, ...
-  - years: 2016--2017
+  - years: 2016—2017
     position: PHP Developer
     job: Bodysite.ru
     city: Yekaterinburg
@@ -81,7 +73,7 @@ conferences:
     subject: PyCon Russia
 
 education:
-  - year: 2013--2017
+  - years: 2013—2017
     subject: Infocommunication technologies and communication systems (bachelor)
     institute: Ural Federal University
     city: Yekaterinburg
@@ -90,11 +82,4 @@ languages:
   - language: Russian
     proficiency: native
   - language: English
-    proficiency: fluent
-
-# Settings
-mainfont: Times New Roman
-fontsize: 10pt
-lang: ru-RU
-geometry: a4paper, left=35mm, right=35mm, top=51mm, bottom=17mm
----
+    proficiency: intermediate
