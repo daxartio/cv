@@ -108,3 +108,20 @@
 #for language in content.languages [
     - #language.language (#language.proficiency)
 ]
+
+== #content.sections.certificates
+
+#for certificate in content.certificates [
+    #grid(
+        columns: (15%, auto),
+        column-gutter: 1em,
+        [
+            #certificate.year
+        ],
+        [
+            *#certificate.name*
+
+            #certificate.link
+        ],
+    )
+]

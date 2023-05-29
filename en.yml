@@ -13,6 +13,7 @@ sections:
   languages: Languages
   projects: Projects
   conferences: Conferences (speaker)
+  certificates: Certificates
 
 intro: |
   Software engineer focused on performant web systems. Skilled Python programmer.
@@ -91,3 +92,8 @@ languages:
     proficiency: native
   - language: English
     proficiency: intermediate
+
+certificates:
+  - name: "DevOps: Kubernetes, Terraform, CI/CD, Helm"
+    year: 2023
+    link: https://edu.slurm.io/certificate/ffec3261-8317-4825-bcde-d9f4b1883b01

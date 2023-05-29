@@ -13,6 +13,7 @@ sections:
   languages: Языки
   projects: Проекты
   conferences: Спикер на конференции
+  certificates: Сертификаты
 
 intro: |
   Разработчик с опытом в WEB backend части. Изучал языки программирования, такие как: Python, Rust, Go, C#, Kotlin, Java, Typescript, JS, Lua, Dart. Большую часть времени уделял языку Python. Разрабатываю stateless сервисы, используя фреймворк FastAPI. Есть большой опыт работы с kafka и также разработки gRPC API.
@@ -93,3 +94,8 @@ languages:
     proficiency: native
   - language: English
     proficiency: intermediate
+
+certificates:
+  - name: "DevOps: Kubernetes, Terraform, CI/CD, Helm"
+    year: 2023
+    link: https://edu.slurm.io/certificate/ffec3261-8317-4825-bcde-d9f4b1883b01
