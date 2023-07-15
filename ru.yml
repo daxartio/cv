@@ -69,11 +69,26 @@ experience:
 
 projects:
   - name: tinkoff-investments
+    language: Python
+    summary: |
+      Библиотека для работы с API Тинькофф Инвестиции
     repo: github.com/tinkoff/invest-python
   - name: tinvest
+    language: Python
+    summary: |
+      Библиотека для работы с OpenAPI Тинькофф Инвестиции
     repo: github.com/daxartio/tinvest
   - name: sportorg
+    language: Python
+    summary: |
+      Программа для организации спортивных соревнований по ориентированию, рогейну и тп.
+      Используется в нескольких странах СНГ и с помощью нее проводили соревнования Кубка Мира и Чемпионата Европы
     repo: github.com/sportorg/pysport
+  - name: taskline
+    language: Rust
+    summary: |
+      Библиотека для выполнения задач по расписанию. Celery на минималках, но на Rust
+    repo: github.com/daxartio/taskline
 
 conferences:
   - year: 2022

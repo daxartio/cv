@@ -67,11 +67,26 @@ experience:
 
 projects:
   - name: tinkoff-investments
+    language: Python
+    summary: |
+      Tinkoff Investments API client
     repo: github.com/tinkoff/invest-python
   - name: tinvest
+    language: Python
+    summary: |
+      Tinkoff Investments OpenAPI client
     repo: github.com/daxartio/tinvest
   - name: sportorg
+    language: Python
+    summary: |
+      Program for organizing sports competitions in orienteering, rogaine, etc.
+      It is used in several CIS countries and with the help of it the World Cup and European Championship competitions were held
     repo: github.com/sportorg/pysport
+  - name: taskline
+    language: Rust
+    summary: |
+      The library allows to create scheduled tasks via Redis for Rust. Celery analog, but for Rust
+    repo: github.com/daxartio/taskline
 
 conferences:
   - year: 2022

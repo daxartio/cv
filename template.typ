@@ -85,7 +85,12 @@
 == #content.sections.projects
 
 #for project in content.projects [
-    - #project.repo (*#project.name*)
+    - *#project.name*
+
+      #project.language / #project.repo
+
+      _ #project.summary _
+
 ]
 
 == #content.sections.conferences
