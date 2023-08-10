@@ -68,11 +68,6 @@ experience:
       Брал заказы на таких языках как Java, Python, PHP, Javascript. Вел разработку сайтов и веб приложений. Разрабатывал плагины для CMS Wordpress.
 
 projects:
-  - name: tinkoff-investments
-    language: Python
-    summary: |
-      Библиотека для работы с API Тинькофф Инвестиции
-    repo: github.com/tinkoff/invest-python
   - name: tinvest
     language: Python
     summary: |

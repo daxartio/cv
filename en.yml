@@ -66,11 +66,6 @@ experience:
       I made a lot of websites and web applications. I used PHP, Python, Javascript, Java. I made plagins for Wordpress.
 
 projects:
-  - name: tinkoff-investments
-    language: Python
-    summary: |
-      Tinkoff Investments API client
-    repo: github.com/tinkoff/invest-python
   - name: tinvest
     language: Python
     summary: |
