@@ -80,8 +80,6 @@
     )
 ]
 
-#pagebreak()
-
 == #content.sections.projects
 
 #for project in content.projects [

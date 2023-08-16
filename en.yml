@@ -16,8 +16,9 @@ sections:
   certificates: Certificates
 
 intro: |
-  Software engineer focused on performant web systems. Skilled Python programmer.
-  More than 8 years of professional web development.
+  I am a software engineer focused on building performant web systems.
+  I am also a skilled Python programmer with more than 8 years of experience in professional web development.
+  I have several projects on GitHub, which you can explore using the link above.
 
 skills:
   - Python
@@ -42,7 +43,7 @@ experience:
       Languages: Python
       Protocols: REST, gRPC, Kafka (avro)
       Packages: FastAPI, Sqlalchemy, Confluent Kafka, ...
-      Summary: According to Global Finance - Best Digital Bank Award 2020. 25+ million users, 100+ microservices, 1000+ requests per second. Highload, high availability, high performance.
+      Summary: According to Global Finance - Best Digital Bank Award 2020. We serve over 25 million users worldwide, employing a robust infrastructure with more than 100 microservices to handle over 100000 requests per second. Our focus on highload, high availability, and high performance ensures a seamless experience for our users.
   - years: 2017—2019
     position: Python developer
     job: USSC.ru
@@ -51,19 +52,20 @@ experience:
       Languages: Python, Go, Typescript
       Protocols: REST, RabbitMQ (json)
       Packages: aiohttp, sqlalchemy, ...
-      Summary: I developed a security system for factories. I made a lot of microservices for this system. I made a lot of integrations with different systems.
+      Summary: I developed a security system for factories, which involved creating numerous microservices.
+      Additionally, I implemented various integrations with different systems.
   - years: 2016—2017
     position: PHP Developer
     job: Bodysite.ru
     city: Yekaterinburg
     summary: |
-      I made E-commerce's plugins
+      I created plugins for E-commerce.
   - years: 2013—2016
     position: Programmer
     job: Freelance
     city: Yekaterinburg
     summary: |
-      I made a lot of websites and web applications. I used PHP, Python, Javascript, Java. I made plagins for Wordpress.
+      I have developed numerous websites and web applications using a variety of programming languages including PHP, Python, Javascript, and Java. Additionally, I have created plugins for WordPress
 
 projects:
   - name: tinvest
@@ -74,13 +76,13 @@ projects:
   - name: sportorg
     language: Python
     summary: |
-      Program for organizing sports competitions in orienteering, rogaine, etc.
-      It is used in several CIS countries and with the help of it the World Cup and European Championship competitions were held
+      I have developed a program for organizing sports competitions in orienteering, rogaine, and related activities.
+      This software has been utilized in multiple CIS countries and has facilitated the successful execution of events like the World Cup and European Championship competitions
     repo: github.com/sportorg/pysport
   - name: taskline
     language: Rust
     summary: |
-      The library allows to create scheduled tasks via Redis for Rust. Celery analog, but for Rust
+      This library enables the creation of scheduled tasks via Redis in Rust. It can be thought of as an analogue to Celery, but designed for Rust
     repo: github.com/daxartio/taskline
 
 conferences:
