@@ -37,7 +37,7 @@ skills:
 experience:
   - years: 2019—2023
     position: Software Architect, Senior Python Developer
-    job: Tinkoff.ru
+    job: Yellow Bank
     city: Saint Petersburg, Remote
     summary: |
       Languages: Python
@@ -68,11 +68,6 @@ experience:
       I have developed numerous websites and web applications using a variety of programming languages including PHP, Python, Javascript, and Java. Additionally, I have created plugins for WordPress
 
 projects:
-  - name: tinvest
-    language: Python
-    summary: |
-      Tinkoff Investments OpenAPI client
-    repo: github.com/daxartio/tinvest
   - name: sportorg
     language: Python
     summary: |

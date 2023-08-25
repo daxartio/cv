@@ -37,7 +37,7 @@ skills:
 experience:
   - years: 2019—2023
     position: Software Architect
-    job: Tinkoff
+    job: Желтый банк
     city: Санкт-Петербург
     summary: |
       Языки: Python
@@ -68,11 +68,6 @@ experience:
       Брал заказы на таких языках как Java, Python, PHP, Javascript. Вел разработку сайтов и веб приложений. Разрабатывал плагины для CMS Wordpress.
 
 projects:
-  - name: tinvest
-    language: Python
-    summary: |
-      Библиотека для работы с OpenAPI Тинькофф Инвестиции
-    repo: github.com/daxartio/tinvest
   - name: sportorg
     language: Python
     summary: |
