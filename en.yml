@@ -81,10 +81,12 @@ projects:
     repo: github.com/daxartio/taskline
 
 conferences:
+  - year: 2023
+    subject: PiterPy (Python + Rust)
   - year: 2022
     subject: PiterPy
   - year: 2022
-    subject: PyCon Weekend Russia
+    subject: PyCon Weekend Russia (Functional programming)
   - year: 2021
     subject: PyCon Russia
 

@@ -16,7 +16,7 @@ sections:
   certificates: Сертификаты
 
 intro: |
-  Разработчик с опытом в WEB backend части. Изучал языки программирования, такие как: Python, Rust, Go, C#, Kotlin, Java, Typescript, JS, Lua, Dart. Большую часть времени уделял языку Python. Разрабатываю stateless сервисы, используя фреймворк FastAPI. Есть большой опыт работы с kafka и также разработки gRPC API.
+  Разработчик с опытом в WEB backend части больше 8 лет. Изучал языки программирования, такие как: Python, Rust, Go, C#, Kotlin, Java, Typescript, JS, Lua, Dart. Большую часть времени уделял языку Python. Разрабатываю stateless сервисы, используя фреймворк FastAPI. Есть большой опыт работы с kafka и также разработки gRPC API.
   В последнее время занимал должность архитектора/тех лида.
   Работаю над opensource проектами.
 
@@ -81,10 +81,12 @@ projects:
     repo: github.com/daxartio/taskline
 
 conferences:
+  - year: 2023
+    subject: PiterPy (Python + Rust)
   - year: 2022
     subject: PiterPy
   - year: 2022
-    subject: PyCon Weekend Russia
+    subject: PyCon Weekend Russia (Функциональное программирование)
   - year: 2021
     subject: PyCon Russia
 
