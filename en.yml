@@ -36,11 +36,11 @@ skills:
 
 experience:
   - years: 2019—2023
-    position: Software Architect, Senior Python Developer
+    position: Software Architect
     job: Yellow Bank
     city: Saint Petersburg, Remote
     summary: |
-      Languages: Python
+      Languages: Python, Go, Rust
       Protocols: REST, gRPC, Kafka (avro)
       Packages: FastAPI, Sqlalchemy, Confluent Kafka, ...
       Summary: According to Global Finance - Best Digital Bank Award 2020. We serve over 25 million users worldwide, employing a robust infrastructure with more than 100 microservices to handle over 100000 requests per second. Our focus on highload, high availability, and high performance ensures a seamless experience for our users.
