@@ -36,7 +36,7 @@ skills:
 
 experience:
   - years: 2019—2023
-    position: Software Architect
+    position: Software Architect/Software Engineer
     job: Yellow Bank
     city: Saint Petersburg, Remote
     summary: |
@@ -45,7 +45,7 @@ experience:
       Packages: FastAPI, Sqlalchemy, Confluent Kafka, ...
       Summary: According to Global Finance - Best Digital Bank Award 2020. We serve over 25 million users worldwide, employing a robust infrastructure with more than 100 microservices to handle over 100000 requests per second. Our focus on highload, high availability, and high performance ensures a seamless experience for our users.
   - years: 2017—2019
-    position: Python developer
+    position: Software Engineer
     job: USSC.ru
     city: Yekaterinburg
     summary: |
@@ -55,10 +55,11 @@ experience:
       Summary: I developed a security system for factories, which involved creating numerous microservices.
       Additionally, I implemented various integrations with different systems.
   - years: 2016—2017
-    position: PHP Developer
+    position: Software Engineer
     job: Bodysite.ru
     city: Yekaterinburg
     summary: |
+      Languages: PHP, Typescript, Javascript
       I created plugins for E-commerce.
   - years: 2013—2016
     position: Programmer
