@@ -75,6 +75,11 @@ projects:
       Программа для организации спортивных соревнований по ориентированию, рогейну и тп.
       Используется в нескольких странах СНГ и с помощью нее проводили соревнования Кубка Мира и Чемпионата Европы
     repo: github.com/sportorg/pysport
+  - name: kdbx
+    language: Rust
+    summary: |
+      Консольная утилита для работы с паролями KeePass.
+    repo: github.com/daxartio/kdbx
   - name: taskline
     language: Rust
     summary: |

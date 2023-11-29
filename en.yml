@@ -75,6 +75,11 @@ projects:
       I have developed a program for organizing sports competitions in orienteering, rogaine, and related activities.
       This software has been utilized in multiple CIS countries and has facilitated the successful execution of events like the World Cup and European Championship competitions
     repo: github.com/sportorg/pysport
+  - name: kdbx
+    language: Rust
+    summary: |
+      A secure hole for your passwords (Keepass CLI)
+    repo: github.com/daxartio/kdbx
   - name: taskline
     language: Rust
     summary: |
