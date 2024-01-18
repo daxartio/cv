@@ -16,9 +16,8 @@ sections:
   certificates: Сертификаты
 
 intro: |
-  Разработчик с опытом в WEB backend части больше 8 лет. Изучал языки программирования, такие как: Python, Rust, Go, C#, Kotlin, Java, Typescript, JS, Lua, Dart. Большую часть времени уделял языку Python. Разрабатываю stateless сервисы, используя фреймворк FastAPI. Есть большой опыт работы с kafka и также разработки gRPC API.
+  Разработчик с опытом в WEB backend части больше 10 лет. Изучал языки программирования, такие как: Python, Rust, Go, C#, Kotlin, Java, Typescript, JS, Lua, Dart. Большую часть времени уделял языку Python. Разрабатываю stateless сервисы, используя фреймворк FastAPI. Есть большой опыт работы с kafka и также разработки gRPC API.
   В последнее время занимал должность архитектора/тех лида.
-  Работаю над opensource проектами.
 
 skills:
   - Python
@@ -35,6 +34,13 @@ skills:
   - Software Architecture
 
 experience:
+  - years: 2024-...
+    position: Программист
+    job: Playrix
+    city: Remote
+    summary: |
+      Разработка и поддержка backend сервисов для игр.
+      Playrix — международный разработчик мобильных игр со штаб-квартирой в Дублине, Ирландия.
   - years: 2019—2023
     position: Архитектор/Программист
     job: Желтый банк
@@ -60,13 +66,6 @@ experience:
     summary: |
       Языки: PHP, Typescript, Javascript
       Разработка и поддержка плагинов для e-commerce
-  - years: 2013—2016
-    position: Программист
-    job: Freelance
-    city: Екатеринбург
-    summary: |
-      Разарботка во время учебы в университете.
-      Брал заказы на таких языках как Java, Python, PHP, Javascript. Вел разработку сайтов и веб приложений. Разрабатывал плагины для CMS Wordpress.
 
 projects:
   - name: sportorg

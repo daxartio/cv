@@ -17,8 +17,7 @@ sections:
 
 intro: |
   I am a software engineer focused on building performant web systems.
-  I am also a skilled Python programmer with more than 8 years of experience in professional web development.
-  I have several projects on GitHub, which you can explore using the link above.
+  I am also a skilled Python programmer with more than 10 years of experience in professional web development.
 
 skills:
   - Python
@@ -35,6 +34,14 @@ skills:
   - Software Architecture
 
 experience:
+  - years: 2024-now
+    position: Software Engineer
+    job: Playrix
+    city: Remote
+    summary: |
+      Languages: Python, Go
+      Packages: FastAPI, Sqlalchemy
+      Summary: Microservices, AWS. Playrix is a developer of free-to-play mobile games behind titles such as Township, Fishdom, Homescapes, and Gardenscapes.
   - years: 2019—2023
     position: Software Architect/Software Engineer
     job: Yellow Bank
@@ -60,13 +67,6 @@ experience:
     city: Yekaterinburg
     summary: |
       Languages: PHP, Typescript, Javascript
-      I created plugins for E-commerce.
-  - years: 2013—2016
-    position: Programmer
-    job: Freelance
-    city: Yekaterinburg
-    summary: |
-      I have developed numerous websites and web applications using a variety of programming languages including PHP, Python, Javascript, and Java. Additionally, I have created plugins for WordPress
 
 projects:
   - name: sportorg
