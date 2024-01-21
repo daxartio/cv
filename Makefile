@@ -2,5 +2,5 @@
 
 .PHONY: generate
 generate:
-	@cp ru.yml cv.yml && typst c template.typ ru.pdf
-	@cp en.yml cv.yml && typst c template.typ en.pdf
+	typst c ru.typ
+	typst c en.typ
