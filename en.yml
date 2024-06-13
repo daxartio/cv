@@ -16,40 +16,39 @@ sections:
   certificates: Certificates
 
 intro: |
-  I am a software engineer focused on building performant web systems.
-  I am also a skilled Python programmer with more than 10 years of experience in professional web development.
+  A developer with over 10 years of experience in web backend development. I use programming languages such as Python, Rust, and Go. I have extensive expertise in the system design of high-load and distributed systems. I implement software development practices in large teams, including internal libraries, service templates, CI/CD, and code testing. Recently,
+  I have held positions such as architect, tech lead, and principal engineer.
 
 skills:
+  - Go
+  - Rust
   - Python
   - FastAPI
   - Sqlalchemy
-  - Rust
-  - Typescript
   - Kafka
   - Postgresql
   - Clickhouse
   - Redis
-  - Docker
-  - CI/CD
-  - Software Architecture
+  - AWS
+  - TeamCity
+  - GitLab CI
 
 experience:
   - years: 2024-now
-    position: Software Engineer
+    position: Principal Software Engineer
     job: Playrix
     city: Remote
     summary: |
-      Languages: Python, Go
-      Packages: FastAPI, Sqlalchemy
+      Languages: Go, Python
+      Technologies: REST, FastAPI, Sqlalchemy, AWS, DynamoDB, Postgresql, Redis
       Summary: Microservices, AWS. Playrix is a developer of free-to-play mobile games behind titles such as Township, Fishdom, Homescapes, and Gardenscapes.
   - years: 2019—2023
-    position: Software Architect/Software Engineer
+    position: Software Architect/Software Engineer/Python Core Lead
     job: Yellow Bank
     city: Saint Petersburg, Remote
     summary: |
       Languages: Python, Go, Rust
-      Protocols: REST, gRPC, Kafka (avro)
-      Packages: FastAPI, Sqlalchemy, Confluent Kafka, ...
+      Technologies: REST, gRPC, Kafka (avro), Postgresql, Redis, FastAPI, Sqlalchemy
       Summary: According to Global Finance - Best Digital Bank Award 2020. We serve over 25 million users worldwide, employing a robust infrastructure with more than 100 microservices to handle over 100000 requests per second. Our focus on highload, high availability, and high performance ensures a seamless experience for our users.
   - years: 2017—2019
     position: Software Engineer
@@ -57,8 +56,7 @@ experience:
     city: Yekaterinburg
     summary: |
       Languages: Python, Go, Typescript
-      Protocols: REST, RabbitMQ (json)
-      Packages: aiohttp, sqlalchemy, ...
+      Technologies: REST, RabbitMQ (json), aiohttp, sqlalchemy
       Summary: I developed a security system for factories, which involved creating numerous microservices.
       Additionally, I implemented various integrations with different systems.
   - years: 2016—2017
@@ -66,7 +64,7 @@ experience:
     job: Bodysite.ru
     city: Yekaterinburg
     summary: |
-      Languages: PHP, Typescript, Javascript
+      Languages: PHP, Javascript, Typescript
 
 projects:
   - name: sportorg
