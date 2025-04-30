@@ -127,6 +127,8 @@
             [
                 *#certificate.name*
 
+                #set text(10pt)
+
                 #certificate.link
             ],
         )

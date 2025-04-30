@@ -20,21 +20,28 @@ intro: |
   I have held positions such as architect, tech lead, and principal engineer.
 
 skills:
-  - Go
   - Rust
   - Python
-  - FastAPI
-  - Sqlalchemy
+  - Go
   - Kafka
   - Postgresql
+  - DynamoDB
   - Clickhouse
   - Redis
   - AWS
   - TeamCity
   - GitLab CI
+  - Github Actions
 
 experience:
   - years: 2024-now
+    position: Senior Software Engineer
+    job: Workato
+    city: Remote
+    summary: |
+      Languages: Rust, Python
+      Technologies: Poem, AWS, Github Actions
+  - years: 2024-2024
     position: Principal Software Engineer
     job: Playrix
     city: Remote
@@ -85,6 +92,8 @@ projects:
     repo: github.com/daxartio/taskline
 
 conferences:
+  - year: 2025
+    subject: Podlodka PythonCrew (Python + Rust)
   - year: 2023
     subject: PiterPy (Python + Rust)
   - year: 2022
@@ -107,6 +116,9 @@ languages:
     proficiency: intermediate
 
 certificates:
+  - name: Podlodka PythonCrew (Python + Rust)
+    year: 2025
+    link: https://certificate.podlodka.io/python4/en/pdldke5914478d228ff6269fd42e538555f3c.png
   - name: "DevOps: Kubernetes, Terraform, CI/CD, Helm"
     year: 2023
     link: https://edu.slurm.io/certificate/ffec3261-8317-4825-bcde-d9f4b1883b01
